@@ -13,4 +13,4 @@ The Vancouver Police Department data set has a few interesting things to look at
 
 The first thing I wanted to do is plot the physical locations of all of the crimes, to see if there might be differences in the type and density of crime in various neighbourhoods. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/myamaximus/VPD/blob/master/spatial_crime_data.png)
