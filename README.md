@@ -23,8 +23,7 @@ map = Basemap(projection='merc',
     resolution='f', area_thresh=0.05,  
     llcrnrlon=-123.3, llcrnrlat=49.15,  
     urcrnrlon=-123, urcrnrlat=49.35)
- 
-#map.drawlsmask(land_color='burlywood', ocean_color='w', resolution='f', lakes=True)
+
 map.drawrivers(linewidth=1.0, color='0.8', antialiased=1)
 map.drawcoastlines()
 map.fillcontinents(color = 'burlywood')
