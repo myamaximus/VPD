@@ -9,7 +9,8 @@ The Vancouver Police Department data set has a few interesting things to look at
 * Mischief: A person commits mischief that willfully causes malicious destruction, damage, or defacement of property. This also includes any public mischief towards another person.
 * Offence Against a Person: An attack on a person causing harm that may include usage of a weapon.
 * Other Theft: Theft of property that includes personal items (purse, wallet, cellphone, laptop, etc.), bicycle, etc.
-* Theft from Vehicle: theft of property from a vehicle o	Theft of Vehicle: Theft of a vehicle, motorcycle, or any motor vehicle
+* Theft from Vehicle: theft of property from a vehicle 
+* Theft of Vehicle: Theft of a vehicle, motorcycle, or any motor vehicle
 
 The first thing I wanted to do is plot the physical locations of all of the crimes, to see if there might be differences in the type and density of crime in various neighbourhoods. 
 
