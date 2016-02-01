@@ -42,4 +42,9 @@ Because the Basemap function was so slow, I just plotted a 2D histogram of the c
 
 The second thing I was interested in is how crime has changed with time. I've read a lot about the fact that crime has generally been on a downward trajectory the world over since the 90s. This data only starts from 2003, but we can still see a clear downward trend.
 
-![alt text](https://github.com/myamaximus/VPD/blob/master/spatial_crime_data.png)
+![alt text](https://github.com/myamaximus/VPD/blob/master/temporal_crime_data.png)
+
+For this plot I did a stacked bar plot so that the trends in total crime and for individual types of crime could be seen. First, I have to be thankful that Vancouver is really a very safe city. The levels of homicide and assault are very low. What I found most interesting though is that there really is no clear downward trend in any category except for thefts from vehicles and thefts of vehicles. I am guessing that this has less to do with people becoming less criminal and more to do with better car securing technology. Although I also remember that the VPD has a [bait car program](http://www.huffingtonpost.ca/2013/01/31/bc-bait-car-program-new_n_2593849.html) which has apparently been running since 2003. I'd love to get my hands on the pre-2003 data.
+
+This is all I have so far. Check back for updates soon!
+
